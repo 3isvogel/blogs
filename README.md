@@ -12,9 +12,10 @@
     - [Lisp machine](#lisp-machine)
 
 ---
----
 
 ## Projects
+
+---
 
 ### 3D Computer Graphic
 
