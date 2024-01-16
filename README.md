@@ -11,6 +11,9 @@
     - [3D Computer Graphic](#3d-computer-graphic)
     - [Lisp machine](#lisp-machine)
 
+---
+---
+
 ## Projects
 
 ### 3D Computer Graphic
@@ -32,10 +35,10 @@ Resources:
     [Tutorials](https://www.vulkan.org/learn#vulkan-tutorials)
   - Khronos group's [reference guide](https://www.khronos.org/developers/reference-cards)
 
----
-
 For the OpenGL branch
 - [OpenGL Setup](https://www.khronos.org/opengl/wiki/Getting_Started)
+
+---
 
 ### Lisp machine
 
