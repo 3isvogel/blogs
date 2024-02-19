@@ -1,6 +1,15 @@
 <!-- I refuse to write this simple stuff in HTML for now, so I'll keep it like this -->
 
+<style>
+    .shadow {
+        background-color: #3333;
+        border-radius: 1em;
+        padding: 1em;
+    }
+</style>
+
 > Back to the [Main Page](https://3isvogel.github.io)
+<div class="shadow">
 
 # 3isvogel's Easy Blog
 
@@ -10,6 +19,7 @@
   - [Projects](#projects)
     - [3D Computer Graphic](#3d-computer-graphic)
     - [Lisp machine](#lisp-machine)
+</div>
 
 ---
 
