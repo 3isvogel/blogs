@@ -2,14 +2,14 @@
 
 <style>
     .shadow {
-        background-color: #3333;
+        background-color: #3332;
         border-radius: 1em;
         padding: 1em;
     }
 </style>
 
 > Back to the [Main Page](https://3isvogel.github.io)
-<div class="shadow">
+<div class="shadow" markdown="1">
 
 # 3isvogel's Easy Blog
 
